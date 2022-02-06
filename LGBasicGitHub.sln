@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGBasicGitHub", "LGBasicGitHub\LGBasicGitHub.csproj", "{EAE8533F-8D42-40F5-A0DB-3E8C0C60383C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAppTest", "BasicAppTest\BasicAppTest.csproj", "{DB2B0839-A30F-4E2C-B784-3F60AF0464A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE8533F-8D42-40F5-A0DB-3E8C0C60383C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE8533F-8D42-40F5-A0DB-3E8C0C60383C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE8533F-8D42-40F5-A0DB-3E8C0C60383C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE8533F-8D42-40F5-A0DB-3E8C0C60383C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB2B0839-A30F-4E2C-B784-3F60AF0464A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2B0839-A30F-4E2C-B784-3F60AF0464A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2B0839-A30F-4E2C-B784-3F60AF0464A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2B0839-A30F-4E2C-B784-3F60AF0464A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C16AD329-E065-4BF2-BC41-ACB3A5F3B848}
+	EndGlobalSection
+EndGlobal

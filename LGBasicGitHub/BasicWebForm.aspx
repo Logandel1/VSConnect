@@ -12,7 +12,7 @@
             <% LGBasicGitHub.Class1 tp = new LGBasicGitHub.Class1(); %>
 
             <%=tp.Name %>
-            <p>Hello World</p>
+            <p>Hello World!!</p>
         </div>
     </form>
 </body>
